@@ -1,2 +1,2 @@
 # Wavelet
-Ho bisogno di saldi per le cuffie nuove
+Ho bisogno di soldi per le cuffie nuove
