@@ -1,0 +1,40 @@
+# Virtual environment locale
+.venv/
+venv/
+
+# Git
+.git/
+.gitignore
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache/test/tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# File macOS
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Documentazione e file non necessari all'esecuzione
+*.md
+*.pdf
+
+# Log e file temporanei
+*.log
+*.tmp
+*.temp
+
+# Docker files non necessari dentro l'immagine
+Dockerfile
+.dockerignore
