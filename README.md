@@ -1,2 +1,2 @@
 # Wavelet
-git pull --rebase origin main
+Ho bisogno di saldi per le cuffie nuove
