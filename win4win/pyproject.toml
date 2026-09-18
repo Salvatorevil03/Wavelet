@@ -1,0 +1,6 @@
+[project]
+name = "win4win-policy-agent"
+version = "0.1.0"
+description = "Agente di compilazione policy per i 22 tag Rizzo PII"
+requires-python = ">=3.10"
+dependencies = []
